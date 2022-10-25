@@ -1,2 +1,2 @@
 # Databehandling-William-Akilles-Lindstedt
-Data processing study repo
+Python study repo. Data structues, KPI:s, seaborn, plotly, regex, GDPR.
