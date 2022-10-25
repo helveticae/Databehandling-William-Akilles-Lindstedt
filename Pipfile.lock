@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "3fc410e7536f3fa30b076f55aa11720103ef851d06416862d116ca26affb473c"
+            "sha256": "7f5908bd88cca10df428bb42d1e5ef067afcca62e632274d8083fcc84aa72a96"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -23,6 +23,14 @@
             ],
             "markers": "platform_system == 'Darwin'",
             "version": "==0.1.3"
+        },
+        "arrow": {
+            "hashes": [
+                "sha256:3934b30ca1b9f292376d9db15b19446088d12ec58629bc3f0da28fd55fb633a1",
+                "sha256:5a49ab92e3b7b71d96cd6bfcc4df14efefc9dfa96ea19045815914a6ab6b1fe2"
+            ],
+            "markers": "python_version >= '3.6'",
+            "version": "==1.2.3"
         },
         "asttokens": {
             "hashes": [
@@ -342,6 +350,15 @@
             "markers": "python_version >= '3.7'",
             "version": "==4.38.0"
         },
+        "ics": {
+            "hashes": [
+                "sha256:5fcf4d29ec6e7dfcb84120abd617bbba632eb77b097722b7df70e48dbcf26103",
+                "sha256:6743539bca10391635249b87d74fcd1094af20b82098bebf7c7521df91209f05",
+                "sha256:da352bdf8418619dc93611e6d251f3cefbb42664777f6e00b580a722098124b7"
+            ],
+            "index": "pypi",
+            "version": "==0.7.2"
+        },
         "idna": {
             "hashes": [
                 "sha256:814f528e8dead7d329833b91c5faa87d60bf71824cd12a7530b5526063d02cb4",
@@ -360,11 +377,11 @@
         },
         "ipykernel": {
             "hashes": [
-                "sha256:32eb7bdc5af57185e9a42b0dcef66413ef91a0490b378eae46cbdf0d4e0b5912",
-                "sha256:3a27a550c1d682e7825f0f7732b0142b79ef1b21cd2e713cacac0c9847535f13"
+                "sha256:463f3d87a92e99969b1605cb7a5b4d7b36b7145a0e72d06e65918a6ddefbe630",
+                "sha256:67daf93e5b52456cd8eea87a8b59405d2bb80ae411864a1ea206c3631d8179af"
             ],
             "index": "pypi",
-            "version": "==6.16.1"
+            "version": "==6.16.2"
         },
         "ipython": {
             "hashes": [
@@ -408,11 +425,11 @@
         },
         "jupyter-client": {
             "hashes": [
-                "sha256:4fa2514cdb54dd9fbdcf7d7e4c5c3c8a973028168a8b4fc097b6aef625be13b0",
-                "sha256:8845e3f5a339734b1ecc21d2100638aa1c7a145e356a31845f155cda5b624b1c"
+                "sha256:1c1d418ef32a45a1fae0b243e6f01cc9bf65fa8ddbd491a034b9ba6ac6502951",
+                "sha256:5616db609ac720422e6a4b893d6572b8d655ff41e058367f4459a0d2c0726832"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==7.4.3"
+            "version": "==7.4.4"
         },
         "jupyter-core": {
             "hashes": [
@@ -1024,7 +1041,7 @@
                 "sha256:0123cacc1627ae19ddf3c27a5de5bd67ee4586fbdd6440d9748f8abb483d3e86",
                 "sha256:961d03dc3453ebbc59dbdea9e4e11c5651520a876d0f4db161e8674aae935da9"
             ],
-            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2'",
+            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'",
             "version": "==2.8.2"
         },
         "python-dotenv": {
@@ -1170,7 +1187,7 @@
                 "sha256:1e61c37477a1626458e36f7b1d82aa5c9b094fa4802892072e49de9c60c4c926",
                 "sha256:8abb2f1d86890a2dfb989f9a77cfcfd3e47c2a354b01111771326f8aa26e0254"
             ],
-            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2'",
+            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'",
             "version": "==1.16.0"
         },
         "stack-data": {
@@ -1208,6 +1225,14 @@
             ],
             "markers": "python_version >= '3.7'",
             "version": "==0.13.2"
+        },
+        "tatsu": {
+            "hashes": [
+                "sha256:0a836692e67247cad9f251e083b045b13345cc715e69a7fbc16522beaa0f2163",
+                "sha256:571ecbcdf33b7828c05e5cd95a8e8ad06af111c2c83a6a245be4d8f7c43de7bb"
+            ],
+            "markers": "python_version >= '3.8'",
+            "version": "==5.8.3"
         },
         "tenacity": {
             "hashes": [
